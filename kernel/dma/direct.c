@@ -23,6 +23,8 @@
 #define ARCH_ZONE_DMA_BITS 24
 #endif
 
+/* Emre Kantar */
+
 /*
  * For AMD SEV all DMA must be to unencrypted addresses.
  */
